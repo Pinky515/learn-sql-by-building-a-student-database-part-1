@@ -75,3 +75,7 @@ cp students.csv students_test.csv
 ./insert_data.sh
 ./insert_data.sh
 ./insert_data.sh
+\l
+\l project
+\d
+ls --color=auto
