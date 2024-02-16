@@ -54,3 +54,4 @@ chmod +x
 chmod +x insert_dash.sh
 chmod +x insert_data.sh
 ./insert_data.sh
+declare -p IFS
