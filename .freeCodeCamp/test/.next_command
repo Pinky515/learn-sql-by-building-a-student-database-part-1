@@ -62,3 +62,4 @@ declare -p IFS
 cp courses.csv to courses_test.csv
 cp courses.csv courses_test.csv
 ./insert_data.sh
+./insert_data.sh
