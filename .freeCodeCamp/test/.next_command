@@ -56,3 +56,5 @@ chmod +x insert_data.sh
 ./insert_data.sh
 declare -p IFS
 ./insert_data.sh
+declare -p IFS
+./insert_data.sh
