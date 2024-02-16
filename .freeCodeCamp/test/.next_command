@@ -53,3 +53,4 @@ chmod +x
 --help
 chmod +x insert_dash.sh
 chmod +x insert_data.sh
+./insert_data.sh
