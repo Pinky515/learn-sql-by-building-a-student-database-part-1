@@ -79,3 +79,4 @@ cp students.csv students_test.csv
 \l project
 \d
 ls --color=auto
+rm students_test.csv
